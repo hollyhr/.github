@@ -18,7 +18,8 @@ record.
 [MCP setup](https://developers.hollyhr.com/mcp) ·
 [API quickstart](https://developers.hollyhr.com/quickstart) ·
 [OpenAPI](https://developers.hollyhr.com/openapi.v1.yaml) ·
-[TypeScript SDK](https://www.npmjs.com/package/@hollyhr/api-client)
+[TypeScript SDK](https://www.npmjs.com/package/@hollyhr/api-client) ·
+[SDK source](https://github.com/hollyhr/hollyhr-api-client)
 
 ## Build and automate with HollyHR
 
@@ -38,10 +39,16 @@ retain human confirmation and HollyHR's emergency safety switch.
 Connect the official [`hollyhr-mcp`](https://github.com/hollyhr/hollyhr-mcp)
 server, start with
 [`hollyhr-api-examples`](https://github.com/hollyhr/hollyhr-api-examples), or
-browse the full [developer documentation](https://developers.hollyhr.com).
+inspect the
+[`hollyhr-api-client`](https://github.com/hollyhr/hollyhr-api-client) source and
+versioned OpenAPI contract. The full guides and API reference live in the
+[developer documentation](https://developers.hollyhr.com).
 
 ## Public projects
 
+- [`hollyhr-api-client`](https://github.com/hollyhr/hollyhr-api-client) -
+  official TypeScript SDK source, tests, examples and versioned OpenAPI
+  contract.
 - [`hollyhr-mcp`](https://github.com/hollyhr/hollyhr-mcp) - official endpoint,
   setup, scopes and write-safety documentation for the hosted MCP server.
 - [`hollyhr-api-examples`](https://github.com/hollyhr/hollyhr-api-examples) -
