@@ -13,6 +13,7 @@ tools, or let an approved AI assistant work through the same governed HR
 record.
 
 [Website](https://www.hollyhr.com) ·
+[Developers](https://www.hollyhr.com/developers) ·
 [Developer docs](https://developers.hollyhr.com) ·
 [MCP setup](https://developers.hollyhr.com/mcp) ·
 [API quickstart](https://developers.hollyhr.com/quickstart) ·
