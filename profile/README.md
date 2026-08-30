@@ -19,7 +19,9 @@ record.
 [API quickstart](https://developers.hollyhr.com/quickstart) ·
 [OpenAPI](https://developers.hollyhr.com/openapi.v1.yaml) ·
 [TypeScript SDK](https://www.npmjs.com/package/@hollyhr/api-client) ·
-[SDK source](https://github.com/hollyhr/hollyhr-api-client)
+[SDK source](https://github.com/hollyhr/hollyhr-api-client) ·
+[Postman](https://www.postman.com/hollyhr/workspace/hollyhr-public-api~73d93b69-5cda-44a4-b491-db7062f974bd/overview) ·
+[Smithery](https://smithery.ai/servers/hollyhr/hollyhr)
 
 ## Build and automate with HollyHR
 
