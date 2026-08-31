@@ -25,10 +25,10 @@ record.
 
 | Project | What it is for |
 | --- | --- |
-| [`hollyhr-mcp`](https://github.com/hollyhr/hollyhr-mcp) | Connect compatible MCP clients to HollyHR's hosted server, with setup, scopes and governed-write safety. |
-| [`hollyhr-api-examples`](https://github.com/hollyhr/hollyhr-api-examples) | Run practical REST API, webhook and MCP examples, including confirmation-gated time-off decisions. |
-| [`hollyhr-api-client`](https://github.com/hollyhr/hollyhr-api-client) | Use the TypeScript SDK or inspect the versioned OpenAPI 3.1 contract. |
-| [`awesome-hr`](https://github.com/hollyhr/awesome-hr) | Explore a maintained collection of HR, employment and people-technology resources. |
+| [`hollyhr‑mcp`](https://github.com/hollyhr/hollyhr-mcp) | Connect compatible MCP clients to HollyHR's hosted server, with setup, scopes and governed-write safety. |
+| [`hollyhr‑api‑examples`](https://github.com/hollyhr/hollyhr-api-examples) | Run practical REST API, webhook and MCP examples, including confirmation-gated time-off decisions. |
+| [`hollyhr‑api‑client`](https://github.com/hollyhr/hollyhr-api-client) | Use the TypeScript SDK or inspect the versioned OpenAPI 3.1 contract. |
+| [`awesome‑hr`](https://github.com/hollyhr/awesome-hr) | Explore a maintained collection of HR, employment and people-technology resources. |
 
 API and MCP reads are available on every plan. Standard and Plus include
 governed writes. System Admins explicitly grant each scope, and MCP mutations
